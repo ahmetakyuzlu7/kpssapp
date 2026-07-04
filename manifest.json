@@ -1,0 +1,16 @@
+{
+  "name": "KPSS 2026 Takip",
+  "short_name": "KPSS 2026",
+  "description": "KPSS 2026 GY-GK çalışma takip uygulaması - günlük çalışma, konu takibi ve deneme netleri",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F4EF",
+  "theme_color": "#1F2A44",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
